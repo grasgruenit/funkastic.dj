@@ -1,0 +1,88 @@
+body {	
+	background-color:#600 
+}
+body,td,p,div {
+	font-family: Tahoma, Verdana, Helvetica, sans-serif;
+	line-height: 1.5em;
+	font-size: 11pt;
+	color: #ddd;
+}
+a:link,a:active,a:visited,a:hover {
+	color:#fff;
+	text-decoration:none;
+}
+H1	{ 
+	font-size:14px; 
+	font-weight: normal; 
+	color:#fff; 
+}
+IMG {
+	border:0;
+}
+b,strong {
+	font-weight:normal; 
+	color:#fff;
+}
+.float { 
+	padding:20px; 
+	position: absolute; 
+	cursor: move; 
+}
+#float1 {
+	top: 137px;
+	left: 217px;
+	width: 330px;
+	height: 353px;
+	padding-right:90px; 
+	background-image: url(img/start.png);
+}
+#float2 {
+	top: 89px;
+	left: 570px;
+	width: 234px;
+	height: 474px;
+	background-image: url(img/style.png);
+}
+#float3 {
+	top: 39px;
+	left: 275px;
+	width: 347px;
+	height: 519px;
+	padding-right:80px; 
+	background-image: url(img/personal.png);
+}
+#float4 {
+	top: 175px;
+	left: 93px;
+	width: 239px;
+	height: 428px;
+	background-image: url(img/contact.png);
+}
+#float5 {
+	bottom: 0px;
+	right: 0px;
+	width: 135px;
+	height: 180px;
+	background-image: url(img/arrows.png);
+}
+#float6 {
+	top: 20px;
+	left: 720px;
+	width: 300px;
+	height: 380px;
+	background-image: url(img/pic1.png);
+}
+#float7 {
+	top: 60px;
+	left: 530px;
+	width: 90px;
+	height: 123px;
+	background-image: url(img/fleck.png);
+}
+#float8 {
+	top: 30px;
+	left: 40px;
+	width: 96px;
+	height: 88px;
+	background-image: url(img/smiley.png);
+}
