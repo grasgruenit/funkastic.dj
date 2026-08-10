@@ -27,7 +27,7 @@ b,strong {
 	padding:20px; 
 	position: absolute; 
 	cursor: move; 
-	margin-bottom: 20px;
+	margin: 5px;
 }
 #float1 {
 	top: 300px;
@@ -60,8 +60,8 @@ b,strong {
 	background-image: url(img/contact.png);
 }
 #float5 {
-	top: 629px;
-	left: 988px;
+	bottom: 5px;
+	right: 5px;
 	width: 135px;
 	height: 180px;
 	background-image: url(img/arrows.png);
