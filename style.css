@@ -27,54 +27,55 @@ b,strong {
 	padding:20px; 
 	position: absolute; 
 	cursor: move; 
+	margin-bottom: 20px;
 }
 #float1 {
-	top: 137px;
-	left: 217px;
+	top: 300px;
+	left: 311px;
 	width: 330px;
 	height: 353px;
 	padding-right:90px; 
 	background-image: url(img/start.png);
 }
 #float2 {
-	top: 89px;
-	left: 570px;
+	top: 76px;
+	left: 730px;
 	width: 234px;
 	height: 474px;
 	background-image: url(img/style.png);
 }
 #float3 {
-	top: 39px;
-	left: 275px;
+	top: 20px;
+	left: 390px;
 	width: 347px;
 	height: 519px;
 	padding-right:80px; 
 	background-image: url(img/personal.png);
 }
 #float4 {
-	top: 175px;
-	left: 93px;
+	top: 149px;
+	left: 135px;
 	width: 239px;
 	height: 428px;
 	background-image: url(img/contact.png);
 }
 #float5 {
-	bottom: 0px;
-	right: 0px;
+	top: 629px;
+	left: 988px;
 	width: 135px;
 	height: 180px;
 	background-image: url(img/arrows.png);
 }
 #float6 {
-	top: 20px;
-	left: 720px;
+	top: 12px;
+	left: 972px;
 	width: 300px;
 	height: 380px;
 	background-image: url(img/pic1.png);
 }
 #float7 {
 	top: 60px;
-	left: 530px;
+	left: 640px;
 	width: 90px;
 	height: 123px;
 	background-image: url(img/fleck.png);
